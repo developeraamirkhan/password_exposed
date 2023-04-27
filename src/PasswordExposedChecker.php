@@ -3,7 +3,7 @@
 namespace developeraamirkhan\PasswordExposed;
 
 use developeraamirkhan\DOFileCachePSR6\CacheItemPool;
-use developeraamirkhan\Psr18GuzzleAdapter\Client;
+use DivineOmega\Psr18GuzzleAdapter\Client;
 use GuzzleHttp\Exception\ConnectException;
 use Http\Discovery\Psr17FactoryDiscovery;
 use ParagonIE\Certainty\Bundle;
