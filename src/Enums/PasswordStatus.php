@@ -2,7 +2,7 @@
 
 namespace developeraamirkhan\PasswordExposed\Enums;
 
-use DivineOmega\PasswordExposed\Interfaces\PasswordExposedCheckerInterface;
+use developeraamirkhan\PasswordExposed\Interfaces\PasswordExposedCheckerInterface;
 
 /**
  * Class PasswordStatus.
