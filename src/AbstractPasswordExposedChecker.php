@@ -1,9 +1,9 @@
 <?php
 
-namespace DivineOmega\PasswordExposed;
+namespace developeraamirkhan\PasswordExposed;
 
-use DivineOmega\PasswordExposed\Enums\PasswordStatus;
-use DivineOmega\PasswordExposed\Interfaces\PasswordExposedCheckerInterface;
+use developeraamirkhan\PasswordExposed\Enums\PasswordStatus;
+use developeraamirkhan\PasswordExposed\Interfaces\PasswordExposedCheckerInterface;
 use Psr\Cache\CacheItemPoolInterface;
 use Psr\Http\Client\ClientExceptionInterface;
 use Psr\Http\Client\ClientInterface;
