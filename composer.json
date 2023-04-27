@@ -1,5 +1,5 @@
 {
-    "name": "divineomega/password_exposed",
+    "name": "developeraamirkhan/password_exposed",
     "description": "This PHP package provides a `password_exposed` helper function, that uses the haveibeenpwned.com API to check if a password has been exposed in a data breach.",
     "type": "library",
     "license": "LGPL-3.0-only",
