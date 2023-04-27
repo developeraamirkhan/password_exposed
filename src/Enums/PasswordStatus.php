@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\PasswordExposed\Enums;
+namespace developeraamirkhan\PasswordExposed\Enums;
 
 use DivineOmega\PasswordExposed\Interfaces\PasswordExposedCheckerInterface;
 
