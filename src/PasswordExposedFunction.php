@@ -1,6 +1,6 @@
 <?php
 
-use DivineOmega\PasswordExposed\PasswordExposedChecker;
+use developeraamirkhan\PasswordExposed\PasswordExposedChecker;
 
 /**
  * @param string $password
